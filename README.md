@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,java,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,java,python,git,github,vscode" />
 </p>
 
 
