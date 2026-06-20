@@ -23,6 +23,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevuSunish&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevuSunish&theme=tokyonight" />
+</p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/DevuSunish/DevuSunish/output/github-snake-dark.svg)
