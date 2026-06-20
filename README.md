@@ -8,7 +8,11 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,vscode,postman,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nextjs,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,postgres,prisma,git,github,vscode,postman,vercel,figma" />
 </p>
 
 
