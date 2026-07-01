@@ -43,5 +43,7 @@
   <a href="https://www.linkedin.com/in/devu-sunish/">
     <img src="https://img.shields.io/badge/LinkedIn-Devu%20Sunish-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+  <a href="https://www.instagram.com/devuuuuu.sunish/">
+    <img src="https://img.shields.io/badge/Instagram-@devuuuuu.sunish-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
