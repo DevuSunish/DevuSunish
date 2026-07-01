@@ -7,15 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0CC9F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Devu+Sunish;Full+Stack+Developer;Agentic+AI+Enthusiast;Computer+Science+Student;Building+Real-World+Applications" />
 </p>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nextjs,nodejs" />
 </p>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,postgres,prisma,git,github,vscode,postman,vercel,figma" />
 </p>
+
 
 
 ## 📊 GitHub Stats
