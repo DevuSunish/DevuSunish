@@ -19,10 +19,9 @@
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=DevuSunish&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=DevuSunish&layout=compact
-https://streak-stats.demolab.com?user=DevuSunish
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevuSunish&show_icons=true&theme=tokyonight" />
+</p>
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/DevuSunish/DevuSunish/output/github-snake-dark.svg)
