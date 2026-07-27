@@ -20,6 +20,8 @@
 ## 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=DevuSunish&show_icons=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=DevuSunish&layout=compact
+https://streak-stats.demolab.com?user=DevuSunish
 
 ## 🐍 Contribution Snake
 
