@@ -40,22 +40,6 @@ good   <!-- ═══════════════ ANIMATED INTRO ═
 
 </div>
 
-```python
-class DevuSunish:
-    education = "B.Tech CSE @ MITS"
-
-    interests = [
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Intelligent Automation",
-        "Creative Problem Solving"
-    ]
-
-    motto = "Learn by building."
-
-    def next_move(self):
-        return "Build something that matters."
-```
 
 I'm a Computer Science undergraduate at **Muthoot Institute of Technology and Science**, fascinated by the intersection of software engineering, AI, and real-world problem-solving.
 
@@ -283,55 +267,7 @@ Technology becomes more powerful when knowledge is shared.
 </tr>
 </table>
 
-<!-- ═══════════════ 05 / CREATIVE SIDE ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,50:8b5cf6,100:ec4899" width="100%" />
-
-<h2 align="center"> ◈ 05 / THE HUMAN BEHIND THE HARDWARE</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<h1>✏️</h1>
-
-<b>THE ARTIST</b>
-
-<br/><br/>
-
-Drawing, caricatures, and visual creativity.
-
-</td>
-<td align="center" width="33%">
-
-<h1>💃</h1>
-
-<b>THE PERFORMER</b>
-
-<br/><br/>
-
-Eight years of classical dance training.
-
-</td>
-<td align="center" width="33%">
-
-<h1>🧩</h1>
-
-<b>THE PROBLEM SOLVER</b>
-
-<br/><br/>
-
-Breaking complex ideas into smaller, workable pieces.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center"><i>Different passions. Different perspectives. All part of the same creative process.</i></p>
 
 <!-- ═══════════════ CLOSING ═══════════════ -->
 
