@@ -1,229 +1,352 @@
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
+<!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=DEVU%20SUNISH&fontSize=65&color=0:09090b,50:312e81,100:06b6d4&stroke=06b6d4&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=16&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=DEVU%20SUNISH&fontSize=68&fontColor=ffffff&color=0:050816,30:171554,65:164e63,100:050816&stroke=22d3ee&strokeWidth=1&animation=twinkling&fontAlignY=44&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descSize=17&descAlignY=66" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=Computer+Science+Undergraduate;Full-Stack+Developer+in+Progress;Exploring+AI+%26+Intelligent+Automation;Building+Things+That+Actually+Work" alt="Animated typing introduction" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-06b6d4?style=flat-square&labelColor=09090b" />
-<img src="https://img.shields.io/badge/MODE-BUILD%20%7C%20LEARN%20%7C%20REPEAT-8b5cf6?style=flat-square&labelColor=09090b" />
-<img src="https://komarev.com/ghpvc/?username=DevuSunish&style=flat-square&color=06b6d4&label=PROFILE+VISITS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Undergraduate;Developer+by+Curiosity;Engineer+in+the+Making;Building+Beyond+the+Ordinary" />
 
 </div>
 
----
-
-## `01` / SYSTEM PROFILE
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Devu Sunish"
-        self.education = "B.Tech CSE"
-        self.interests = [
-            "Full-Stack Development",
-            "Artificial Intelligence",
-            "Intelligent Automation",
-            "Creative Problem Solving"
-        ]
-        self.mindset = "Learn by building"
-
-    def current_status(self):
-        return "Turning ideas into working software."
-```
-
-I'm a Computer Science undergraduate at **Muthoot Institute of Technology and Science (MITS)**, interested in the space where software engineering, AI, and real-world problem-solving meet.
-
-I enjoy building applications, exploring new technologies, and collaborating with people who like making ideas happen. Outside the editor, I contribute to technical communities, work with a motorsports team, and explore my creative side through drawing and classical dance.
-
-**Current mission:** Build meaningful projects, strengthen my engineering fundamentals, and keep pushing beyond what I already know.
-
-## `02` / PROJECT LAB
-
-<details open>
-<summary><b>01. INTELLISCREEN | AI meets learning support</b></summary>
-
 <br/>
 
-A multimodal mobile application designed to support preliminary screening and progress monitoring for dyslexia and dysgraphia in children.
+<!-- ═══════════════ 01 / SYSTEM PROFILE ═══════════════ -->
 
-- `01` Handwriting analysis using computer vision and deep learning.
-- `02` Reading assessment with speech processing.
-- `03` Phonological awareness, rapid naming, and memory activities.
-- `04` Progress tracking and adaptive assessment workflows.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,50:8b5cf6,100:ec4899" width="100%" />
 
-**Stack:** Flutter · Dart · Python · OpenCV · Machine Learning · Speech Processing
+<h2 align="center"> ◈ 01 / THE DEVELOPER BEHIND THE CODE</h2>
 
-<sub>Developed as an academic support tool, not a diagnostic system.</sub>
-
-</details>
-
-<details>
-<summary><b>02. TravelVerse | Full-stack travel technology</b></summary>
-
-<br/>
-
-A full-stack travel platform bringing together travel discovery, application workflows, and backend services.
-
-- Responsive frontend built with React and TypeScript.
-- REST APIs with Node.js and Express.
-- Authentication with JWT.
-- PostgreSQL integration with SQLite fallback support.
-
-**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Tailwind CSS
-
-[↗ Explore the repository](https://github.com/DevuSunish/TravelVerse)
-
-</details>
-
-<details>
-<summary><b>03. Automation Lab | Bots and intelligent workflows</b></summary>
-
-<br/>
-
-Exploring how automation can simplify repetitive processes and connect applications.
-
-- Robotic process automation with Automation Anywhere A360.
-- Parent-child bot architecture and bot lifecycle workflows.
-- Exposure to AI-agent workflows, APIs, and web services.
-
-**Experience:** Agentic AI Internship at Finesse Direct, Bangalore.
-
-</details>
-
-## `03` / EXPERIENCE LOG
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### ⚓ Cochin Shipyard Limited
-
-**Internship Experience**
-
-An industry exposure milestone in my engineering journey, providing an opportunity to learn beyond the classroom.
-
-*More details about the role and technical work can be added here.*
+<img src="https://img.shields.io/badge/ROLE-Developer-0b1020?style=for-the-badge&labelColor=164e63"/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🤖 Finesse Direct
+<img src="https://img.shields.io/badge/MINDSET-Builder-0b1020?style=for-the-badge&labelColor=5b21b6"/>
 
-**Agentic AI Intern · Bangalore**
+</td>
+<td align="center" width="33%">
 
-Explored automation and intelligent workflows using Automation Anywhere A360, including bot development, parent-child workflows, APIs, and web services.
+<img src="https://img.shields.io/badge/STATUS-Always_Learning-0b1020?style=for-the-badge&labelColor=9d174d"/>
 
 </td>
 </tr>
 </table>
 
-## `04` / BEYOND THE TERMINAL
-
-<details open>
-<summary><b>🏎️ MITS Motorsports | Documentation Lead</b></summary>
-
-<br/>
-
-Engineering isn't just about writing code. It is also about documenting ideas, coordinating work, and helping a team move towards a common goal.
-
-- Served as Documentation Lead for MITS Motorsports.
-- Contributed to the team's technical documentation.
-- 🏆 **AIR 7 at GKDC 2025**, achieved with the team.
-
-</details>
-
-<details>
-<summary><b>🌱 TinkerHub | Outreach Lead</b></summary>
-
-<br/>
-
-Contributed to campus technology initiatives and collaborative learning, helping students discover new technologies, participate in activities, and learn by building.
-
-</details>
-
-<details>
-<summary><b>🎨 The creative side</b></summary>
-
-<br/>
-
-- ✏️ Drawing and caricature.
-- 💃 Eight years of classical dance.
-- 🧩 Bringing creativity, structure, and curiosity into technical work.
-
-</details>
-
-## `05` / TECH ARSENAL
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" />
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind&theme=dark" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,figma&theme=dark" />
-
-### AI & Automation
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-ec4899?style=for-the-badge" />
-
 </div>
 
-## `06` / GITHUB TELEMETRY
+```python
+class DevuSunish:
+    education = "B.Tech CSE @ MITS"
 
-<div align="center">
+    interests = [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Intelligent Automation",
+        "Creative Problem Solving"
+    ]
 
-<a href="https://github.com/DevuSunish">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevuSunish&show_icons=true&hide_border=true&bg_color=09090b&title_color=22d3ee&icon_color=a78bfa&text_color=e4e4e7&rank_icon=github" alt="GitHub statistics" />
-</a>
+    motto = "Learn by building."
 
-<a href="https://github.com/DevuSunish">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevuSunish&layout=compact&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=e4e4e7" alt="Most used languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DevuSunish&hide_border=true&background=09090b&ring=06b6d4&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=e4e4e7&dates=71717a&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" width="80%" />
-
-</div>
-
-## `07` / NEXT OBJECTIVES
-
-```text
-[ IN PROGRESS ]  Building AI-powered applications
-[ IN PROGRESS ]  Strengthening full-stack engineering
-[ IN PROGRESS ]  Practising DSA and problem solving
-[ EXPLORING    ]  Agentic AI and intelligent automation
-[ ALWAYS       ]  Learning something new
+    def next_move(self):
+        return "Build something that matters."
 ```
 
+I'm a Computer Science undergraduate at **Muthoot Institute of Technology and Science**, fascinated by the intersection of software engineering, AI, and real-world problem-solving.
+
+I like taking an idea from a rough sketch to a working application. My journey also extends beyond the screen, through technology communities, motorsports documentation, creative design, and classical dance.
+
+<blockquote>
+<em>My philosophy: stay curious, build fearlessly, and make every iteration better than the last.</em>
+</blockquote>
+
+<!-- ═══════════════ 02 / PROJECT LAB ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:22d3ee,100:ec4899" width="100%" />
+
+<h2 align="center"> ◈ 02 / THE PROJECT LAB</h2>
+
+<p align="center"><i>Ideas enter the lab. Experiments turn them into software.</i></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">01. INTELLISCREEN</h3>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,50:8b5cf6,100:ec4899&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/AI-POWERED-312e81?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MOBILE-APP-164e63?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-### Got an interesting idea? Let's build it.
+</div>
 
-<a href="https://github.com/DevuSunish">
-<img src="https://img.shields.io/badge/Explore%20my%20work-DevuSunish-181717?style=for-the-badge&logo=github" />
-</a>
+**Learning support, powered by AI.**
+
+A multimodal mobile application for preliminary screening and progress monitoring of dyslexia and dysgraphia in children.
+
+**Inside the system**
+
+- ✍️ Computer vision and handwriting analysis.
+- 🎙️ Reading assessment and speech processing.
+- 🧩 Phonological awareness, naming speed, and memory tasks.
+- 📈 Progress tracking and adaptive assessment.
+
+<sub>FLUTTER · DART · PYTHON · OPENCV · ML</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">02. TRAVELVERSE</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FULL--STACK-APPLICATION-164e63?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB-TECHNOLOGY-312e81?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+**Connecting travel ideas with technology.**
+
+A full-stack travel platform built around responsive interfaces, backend services, and database-driven workflows.
+
+**Inside the system**
+
+- 🌍 Responsive React and TypeScript frontend.
+- 🔐 JWT-based authentication.
+- ⚙️ REST APIs with Node.js and Express.
+- 🗄️ PostgreSQL integration and SQLite fallback.
+
+<sub>REACT · TYPESCRIPT · NODE.JS · EXPRESS · POSTGRESQL</sub>
+
+<div align="center">
+
+<a href="https://github.com/DevuSunish/TravelVerse"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-0891b2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">03. AUTOMATION LAB</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RPA-AUTOMATION-5b21b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-AGENT_WORKFLOWS-9d174d?style=for-the-badge"/>
+
+</div>
+
+**Less repetitive work. More intelligent workflows.**
+
+My exploration of robotic process automation and AI-assisted workflows through my Agentic AI internship at Finesse Direct.
+
+| Focus area | What I explored |
+|---|---|
+| Bot architecture | Parent-child bots and lifecycle workflows |
+| Integration | APIs and web services |
+| Automation | Automation Anywhere A360 |
+| AI workflows | Agent-based automation concepts |
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>◉ Three areas of exploration. One goal: build useful technology.</sub></p>
+
+<!-- ═══════════════ 03 / EXPERIENCE TIMELINE ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,50:8b5cf6,100:ec4899" width="100%" />
+
+<h2 align="center"> ◈ 03 / THE EXPERIENCE TIMELINE</h2>
+
+<p align="center"><i>Every experience adds another layer to the engineer I'm becoming.</i></p>
+
+<table>
+<tr>
+<td width="70" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-0e7490?style=for-the-badge"/>
+
+</td>
+<td valign="top">
+
+### ⚓ COCHIN SHIPYARD LIMITED
+
+**Internship Experience**
+
+An opportunity to step beyond academic projects and experience an industrial environment.
+
+`INDUSTRY EXPOSURE` · `ENGINEERING` · `LEARNING`
+
+<sub>Role, department, duration, and technical responsibilities can be added here.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-6d28d9?style=for-the-badge"/>
+
+</td>
+<td valign="top">
+
+### 🤖 FINESSE DIRECT
+
+**Agentic AI Intern · Bangalore**
+
+Explored robotic process automation and intelligent workflows using Automation Anywhere A360.
+
+- Parent-child bot architecture and bot lifecycle workflows.
+- API and web-service integration exposure.
+- Exploration of AI agents and automation concepts.
+
+`RPA` · `AUTOMATION ANYWHERE` · `AGENTIC AI`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ 04 / MOTORSports ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,50:8b5cf6,100:22d3ee" width="100%" />
+
+<h2 align="center"> ◈ 04 / ENGINEERING BEYOND THE SCREEN</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏎️ MITS MOTORSPORTS</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROLE-DOCUMENTATION_LEAD-18181b?style=for-the-badge&labelColor=7c2d12"/>
+
+</div>
+
+Engineering isn't only about what happens on the track. It's also about the planning, records, and collaboration that keep a team moving.
+
+- Technical documentation and coordination.
+- Supporting the team's engineering communication.
+- Working alongside a competitive student motorsports team.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GKDC_2025-AIR_7-f59e0b?style=for-the-badge&logo=championsleague&logoColor=white"/>
+
+<h2>ALL INDIA RANK 7</h2>
+
+<b>GKDC 2025</b>
+
+<sub>A team achievement with MITS Motorsports.</sub>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 TINKERHUB</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROLE-OUTREACH_LEAD-18181b?style=for-the-badge&labelColor=065f46"/>
+
+</div>
+
+Technology becomes more powerful when knowledge is shared.
+
+- Supported student technology-learning initiatives.
+- Contributed to community engagement and collaboration.
+- Helped create opportunities for students to explore technology and build projects.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COMMUNITY-LEARNING_TOGETHER-047857?style=for-the-badge"/>
+
+<p><i>Building a community where curiosity turns into capability.</i></p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ 05 / CREATIVE SIDE ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,50:8b5cf6,100:ec4899" width="100%" />
+
+<h2 align="center"> ◈ 05 / THE HUMAN BEHIND THE HARDWARE</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h1>✏️</h1>
+
+<b>THE ARTIST</b>
 
 <br/><br/>
 
-<sub>Designed with curiosity. Built with code. Improved with every commit.</sub>
+Drawing, caricatures, and visual creativity.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:09090b&height=100&section=footer" width="100%" />
+</td>
+<td align="center" width="33%">
+
+<h1>💃</h1>
+
+<b>THE PERFORMER</b>
+
+<br/><br/>
+
+Eight years of classical dance training.
+
+</td>
+<td align="center" width="33%">
+
+<h1>🧩</h1>
+
+<b>THE PROBLEM SOLVER</b>
+
+<br/><br/>
+
+Breaking complex ideas into smaller, workable pieces.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center"><i>Different passions. Different perspectives. All part of the same creative process.</i></p>
+
+<!-- ═══════════════ CLOSING ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050816,45:312e81,100:0891b2&section=footer&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<h3>THE NEXT VERSION IS ALWAYS IN DEVELOPMENT.</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&height=35&lines=Build.+Break.+Understand.+Improve.;Curiosity+is+part+of+the+workflow.;See+you+in+the+next+commit." />
+
+<a href="https://github.com/DevuSunish"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-18181b?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<sub>Crafted with curiosity · Powered by persistence · Improved one commit at a time.</sub>
 
 </div>
