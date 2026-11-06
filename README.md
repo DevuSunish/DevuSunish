@@ -1,4 +1,4 @@
-good   <!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
+ <!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
 
 <div align="center">
 
